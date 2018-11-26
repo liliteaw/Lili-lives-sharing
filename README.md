@@ -4,10 +4,7 @@
         <img src="./static/logo.png" width="30%">
     </a>
     <h1 align="center">Lili-lives-sharing</h1>
-    <p align="center">
-        
-        <a href="https://"><img src="https://"></a>
-    </p>
+  
     <p align="center">
         those are what u can learn fr me<br>
     </p>
