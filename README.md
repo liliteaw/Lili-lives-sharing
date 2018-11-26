@@ -1,6 +1,6 @@
 
 <p align="center">
-    <a href="https://">
+    <a href="https://liliteaw.github.io/lili-lives-sharing/#/">
         <img src="./static/logo.png" width="30%">
     </a>
     <h1 align="center">Lili-lives-sharing</h1>

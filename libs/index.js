@@ -11,7 +11,7 @@ gitalkConfig = {
 },
 window.$docsify = {
   name: 'Lili-lives-sharing',
-  repo: 'https://',
+  repo: 'https://liliteaw.github.io/lili-lives-sharing/#/',
   auto2top: true,
   loadSidebar: true,
   subMaxLevel: 2,
