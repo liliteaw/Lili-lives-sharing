@@ -15,7 +15,7 @@
 </p>
 
 
-## Lili Other Sharing
+## ---- Lili Other Sharing ----
 -----
 
 <p align="left">
@@ -26,7 +26,7 @@
     
 </p>
 
-:star::star::star::star::star::star::star::star::star::star::star::star::star::star:
+-----
 
 <p align="left">
     <h3 align="left">ONEXOX-simcard-sharing</h3>
@@ -36,7 +36,7 @@
        
 </p>
 
-:star::star::star::star::star::star::star::star::star::star::star::star::star::star:
+-----
 
 <p align="left">
     <h3 align="left">Medium</h3>
@@ -46,7 +46,7 @@
        
 </p>
 
-:star::star::star::star::star::star::star::star::star::star::star::star::star::star:
+-----
 
 <p align="left">
     <h3 align="left">Blogger</h3>
@@ -58,7 +58,7 @@
 
 
 -----
-## Follow Me
+## ---- Follow Me ----
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
  <div class="addthis_inline_follow_toolbox"></div>
 
