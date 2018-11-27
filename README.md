@@ -71,27 +71,27 @@
 
 <p align="left">
      <h3 align="left">SMS</h3> 
-    <img src="https://i.imgur.com/jHCgqXN.png" width="10%">
+    <img src="https://i.imgur.com/MWKdd7N.png" width="10%">
         
 </p>
 <p align="left">
     <h3 align="left">微信</h3>  
-    <img src="https://i.imgur.com/JSYrkuO.jpg" width="10%">
+    <img src="https://i.imgur.com/p5QVU0o.jpg" width="10%">
       
 </p>
 <p align="left">
      <h3 align="left">WhatsApp</h3> 
-    <img src="https://i.imgur.com/kUWhrWd.png" width="10%">
+    <img src="https://i.imgur.com/BKj4ROo.png" width="10%">
       
 </p>
 <p align="left">
     <h3 align="left">line</h3>
-    <img src="https://i.imgur.com/eEVkDYk.jpg" width="10%">
+    <img src="https://i.imgur.com/iRngVkz.jpg" width="10%">
         
 </p>
 <p align="left">
     <h3 align="left">facebook messenger</h3>
-    <img src="https://i.imgur.com/yhWcn56.png" width="10%">
+    <img src="https://i.imgur.com/bBV2O1n.png" width="10%">
           
 </p>
 </div>
