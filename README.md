@@ -14,9 +14,9 @@
     
 </p>
 
-
 ## ---- Lili Other Sharing ----
------
+
+<div style="background-color:#F7F9F9;color:#ABB2B9;padding:20px;">
 
 <p align="left">
     <h3 align="left">ATOMY-products-sharing</h3>
@@ -26,7 +26,7 @@
     
 </p>
 
------
+
 
 <p align="left">
     <h3 align="left">ONEXOX-simcard-sharing</h3>
@@ -36,7 +36,7 @@
        
 </p>
 
------
+
 
 <p align="left">
     <h3 align="left">Medium</h3>
@@ -46,7 +46,7 @@
        
 </p>
 
------
+
 
 <p align="left">
     <h3 align="left">Blogger</h3>
@@ -56,15 +56,44 @@
        
 </p>
 
+</div>
 
------
 ## ---- Follow Me ----
+<div style="background-color:#F7F9F9;color:#ABB2B9;padding:20px;">
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
  <div class="addthis_inline_follow_toolbox"></div>
+</div>
 
 
+## ---- Contact Me ----
 
+<div style="background-color:#F7F9F9;color:#ABB2B9;padding:20px;">
 
-
+<p align="left">
+     <h3 align="left">SMS</h3> 
+    <img src="https://i.imgur.com/jHCgqXN.png" width="10%">
+        
+</p>
+<p align="left">
+    <h3 align="left">微信</h3>  
+    <img src="https://i.imgur.com/JSYrkuO.jpg" width="10%">
+      
+</p>
+<p align="left">
+     <h3 align="left">WhatsApp</h3> 
+    <img src="https://i.imgur.com/kUWhrWd.png" width="10%">
+      
+</p>
+<p align="left">
+    <h3 align="left">line</h3>
+    <img src="https://i.imgur.com/eEVkDYk.jpg" width="10%">
+        
+</p>
+<p align="left">
+    <h3 align="left">facebook messenger</h3>
+    <img src="https://i.imgur.com/yhWcn56.png" width="10%">
+          
+</p>
+</div>
 
 
