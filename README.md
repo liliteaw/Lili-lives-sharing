@@ -20,7 +20,7 @@
 <p align="left">
     <h3 align="left">ATOMY-products-sharing</h3>
     <a href="https://liliteaw.github.io/atomy-products-sharing/#/" target="_blank">
-        <img src="https://i.imgur.com/PIsY6HH.png" width="30%">
+        <img src="https://i.imgur.com/Z3vQBJZ.png" width="30%">
     </a>
     
 </p>
